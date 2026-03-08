@@ -1,0 +1,31 @@
+{
+  "name": "@pubsub/client",
+  "version": "1.0.0",
+  "description": "JavaScript/TypeScript client SDK for PubSub messaging system",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pubsub",
+    "websocket",
+    "messaging",
+    "realtime",
+    "client",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punnayan-josys/PUB-SUM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/punnayan-josys/PUB-SUM/issues"
+  },
+  "homepage": "https://github.com/punnayan-josys/PUB-SUM#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
